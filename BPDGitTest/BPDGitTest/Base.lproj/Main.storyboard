@@ -89,7 +89,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="AfG-Fv-Fvv"/>
+                    <tabBarItem key="tabBarItem" title="Item" id="DHc-Bf-eBU"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uQS-5f-pPe" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -110,7 +110,7 @@
                     <connections>
                         <segue destination="9pv-A4-QxB" kind="relationship" relationship="viewControllers" id="u7Y-xg-7CH"/>
                         <segue destination="8rJ-Kc-sve" kind="relationship" relationship="viewControllers" id="lzU-1b-eKA"/>
-                        <segue destination="G1i-sf-ucs" kind="relationship" relationship="viewControllers" id="Dzu-4R-DtC"/>
+                        <segue destination="G1i-sf-ucs" kind="relationship" relationship="viewControllers" id="moz-Q6-PwM"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HuB-VB-40B" sceneMemberID="firstResponder"/>
